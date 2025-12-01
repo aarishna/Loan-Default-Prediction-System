@@ -69,13 +69,13 @@ Classification Report
 
 ## Run it Yourself
 ### Clone repo
-git clone [https://github.com/yourusername/loan-default-prediction.git](https://github.com/aarishna/Loan-Default-Prediction-System.git)
-cd loan-default-prediction
+git clone [https://github.com/aarishna/loan-default-prediction.git](https://github.com/aarishna/Loan-Default-Prediction-System.git)
+
 
 ## Install dependencies
 pip install -r requirements.txt
 
-## Run program
+### Run program
 python main.py
 
 ## Future Improvements
