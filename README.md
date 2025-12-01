@@ -69,7 +69,7 @@ Classification Report
 
 ## Run it Yourself
 ### Clone repo
-git clone https://github.com/yourusername/loan-default-prediction.git
+git clone [https://github.com/yourusername/loan-default-prediction.git](https://github.com/aarishna/Loan-Default-Prediction-System.git)
 cd loan-default-prediction
 
 ## Install dependencies
