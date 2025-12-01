@@ -1,0 +1,4 @@
+## matplotlib — for creating histograms and pie charts
+## scikit-learn — for Decision Tree model, scaling, and evaluation metrics
+## pandas — for data manipulation and cleaning
+## numpy — for numerical operations and array handling
