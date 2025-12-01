@@ -1,47 +1,42 @@
-📊 Loan Default Prediction System
+# Loan Default Prediction System
 
 A machine learning classifier with a circular linked-list–based navigation UI
 
-📌 Overview
+# Overview
 
 This project predicts whether borrowers are likely to default on a loan using a Decision Tree Classification Model. It features an interactive command-line navigation system built using a Circular Doubly Linked List, allowing users to move through borrower profiles with recommendation results (Accept / Reject).
 
 This system combines data science and core data structure concepts into a single practical finance-based application.
 
-🚀 Features
+ # Features
 
-🔍 Predictive Analytics using Decision Tree Classifier
+ Predictive Analytics using Decision Tree Classifier
 
-🧼 Automated preprocessing (noise filtering, missing value handling, feature scaling)
+ Automated preprocessing (noise filtering, missing value handling, feature scaling)
 
-📈 Visual reports (histograms & pie charts) showing borrower trends
+ Visual reports (histograms & pie charts) showing borrower trends
 
-🔁 Circular Doubly Linked List navigation for user-friendly record browsing
+ Circular Doubly Linked List navigation for user-friendly record browsing
 
-📝 Displays detailed borrower profiles with model-based recommendations
+ Displays detailed borrower profiles with model-based recommendations
 
-🧪 Performance evaluation with accuracy, classification report & confusion matrix
+ Performance evaluation with accuracy, classification report & confusion matrix
 
-🛠️ Tech Stack
+# Tech Stack
 Category	Tools
 Programming	Python
 Machine Learning	Scikit-Learn
 Data Handling	Pandas, NumPy
 Visualization	Matplotlib
 Data Structure	Circular Doubly Linked List
-📂 Project Structure
-📦 Loan-Default-Prediction
+
+# Project Structure
+ Loan-Default-Prediction
 ├─ 📁 data              # Dataset files
-├─ 📁 src
-│  ├─ model.py          # ML model training & evaluation
-│  ├─ preprocess.py     # Data cleaning & feature engineering
-│  ├─ linked_list.py    # Circular DLL implementation
-│  ├─ ui.py             # CLI-based record viewer
-│  └─ main.py           # Application entry point
-├─ 📊 charts             # Generated graphs for insights
+├─ loan_predictor.py    # This program predicts whether a loan applicant will default using a decision tree model
 └─ README.md            # Project documentation
 
-🧠 How It Works
+# How It Works
 
 The dataset is cleaned and filtered
 
@@ -57,17 +52,17 @@ q → quit
 
 Prediction displayed as:
 
-✔ Accepted → low risk of default
+# Accepted → low risk of default
 
-✖ Rejected → high risk of default
+# Rejected → high risk of default
 
-📊 Model Insights
+# Model Insights
 
 Shows financial risk distribution using Matplotlib visualizations
 
 Highlights key contributors to default decisions
 
-📈 Performance Metrics
+# Performance Metrics
 
 Accuracy Score
 
@@ -77,7 +72,7 @@ Classification Report
 
 (Values depend on dataset)
 
-▶️ Run it Yourself
+# Run it Yourself
 # Clone repo
 git clone https://github.com/yourusername/loan-default-prediction.git
 cd loan-default-prediction
@@ -88,12 +83,12 @@ pip install -r requirements.txt
 # Run program
 python main.py
 
-🏁 Future Improvements
+# Future Improvements
 
 ✔ GUI/Web interface
 ✔ Support for multiple ML models (Random Forest, XGBoost)
 ✔ Performance optimization on larger datasets
 
-📜 License
+# License
 
 This project is open-source and free to use for learning and research.
