@@ -82,7 +82,7 @@ python main.py
 
 ✔ GUI/Web interface \
 ✔ Support for multiple ML models (Random Forest, XGBoost)\
-✔ Performance optimization on larger datasets\
+✔ Performance optimization on larger datasets
 
 ## License
 
