@@ -1,5 +1,4 @@
 """
-========CMPUT 175 ASSIGNMENT========
 Code:   Loan Default Predictor & Circular DLL
 Author: Aarish Naiyer
 When:   April 7rd, 2025
