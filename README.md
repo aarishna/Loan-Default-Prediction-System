@@ -80,9 +80,9 @@ python main.py
 
 ## Future Improvements
 
-✔ GUI/Web interface
-✔ Support for multiple ML models (Random Forest, XGBoost)
-✔ Performance optimization on larger datasets
+✔ GUI/Web interface \
+✔ Support for multiple ML models (Random Forest, XGBoost)\
+✔ Performance optimization on larger datasets\
 
 ## License
 
