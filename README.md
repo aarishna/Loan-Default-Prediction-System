@@ -22,19 +22,14 @@ This system combines data science and core data structure concepts into a single
 
  Performance evaluation with accuracy, classification report & confusion matrix
 
-# Tech Stack
+## Tech Stack
+
 Category	Tools
 Programming	Python
 Machine Learning	Scikit-Learn
 Data Handling	Pandas, NumPy
 Visualization	Matplotlib
 Data Structure	Circular Doubly Linked List
-
-# Project Structure
- Loan-Default-Prediction
-├─ 📁 data              # Dataset files
-├─ loan_predictor.py    # This program predicts whether a loan applicant will default using a decision tree model
-└─ README.md            # Project documentation
 
 # How It Works
 
