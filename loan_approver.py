@@ -1,7 +1,7 @@
 """
 Code:   Loan Default Predictor & Circular DLL
 Author: Aarish Naiyer
-When:   April 7rd, 2025
+When:   April 7th, 2025
 """
 
 import matplotlib.pyplot as plt
@@ -229,7 +229,7 @@ def UI(applicants):
         elif choice == "0":
             print()
             print()
-            print("BYEBYE")
+            print("BYE BYE")
             print()
             return
         else:
