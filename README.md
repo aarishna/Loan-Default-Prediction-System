@@ -98,11 +98,3 @@ python main.py
 
 Open-source. Free to use for **learning and research**.
 
----
-
-### ✅ Why This Stands Out for Internship Applications
-
-- **Bridges ML & software engineering** with a tangible application  
-- **Shows data structure mastery** (Circular Doubly Linked List in a real project)  
-- **Includes end-to-end workflow**: preprocessing → modeling → evaluation → visualization  
-- **Highlights scalability potential** for larger datasets and future features
