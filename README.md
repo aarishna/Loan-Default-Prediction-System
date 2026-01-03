@@ -12,7 +12,6 @@ Built a practical finance-focused application that **predicts loan defaults** us
 - **Data Structures** – Circular Doubly Linked List for smooth profile navigation  
 - **Data Visualization** – insights into financial risk trends  
 
-This demonstrates the ability to combine **data science, software engineering, and algorithmic thinking** into a cohesive project.
 
 ---
 
